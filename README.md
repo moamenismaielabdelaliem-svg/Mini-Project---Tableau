@@ -4,6 +4,8 @@ Mini Project - Analyzing superstore dataset and answering 10 business questions 
 ## Business questions we answered through our analysis and the visuals:
 we'll attach each question with its explanation and visual..
 
+## Geographic & Fulfillment Performance:
+
 ### Q1. ​How does average shipping delay vary across states, and which geographic regions face critical fulfillment bottlenecks?
 
 Business Objective: 
@@ -52,8 +54,9 @@ Interestingly, **Second Class** shipping yields the highest efficiency, generati
 
 <img width="1372" height="869" alt="5087fbc3-6810-417a-9813-1f12be11bf9b" src="https://github.com/user-attachments/assets/a5f42c11-d161-44f1-a950-20a3454c5f9b" />
 
+## Growth & Customers:
 
-### Q4: Is long-term sales expansion translating into healthy profit growth, or does revenue growth outpace net earnings over time?
+### Q1: Is long-term sales expansion translating into healthy profit growth, or does revenue growth outpace net earnings over time?
 
 Business Objective: 
 To determine if the long-term increase in sales volume is generating a proportional increase in net profit, or if rising costs and aggressive discounting are eroding the company's profit margins over time.
@@ -72,6 +75,41 @@ While annual sales grew significantly from 2013-2014 (averaging ~$103K) to 2015-
 
 
 
-### Q5: How do customer segments (Consumer, Corporate, Home Office) compare in terms of revenue contribution versus actual net profitability?
+### Q2: How do customer segments (Consumer, Corporate, Home Office) compare in terms of revenue contribution versus actual net profitability?
+
+Business Objective:
+To evaluate the true financial value of each customer segment by comparing the total revenue they generate against the actual net profit they yield. This helps optimize marketing budgets, tailor pricing strategies, and focus on the most lucrative customer base.
+
+Key Insights & Recommendations:
+The analysis reveals a massive disparity between revenue and actual profit across segments:
+  * **Consumer Segment:** Generates the highest revenue (over $252K) but yields the lowest net profit (only ~$8.5K), resulting in a critically low profit margin of **3.4%**.
+  * **Corporate Segment:** The most profitable overall, generating ~$18.7K in net profit from $157K in sales (a strong **11.8%** margin).
+  * **Home Office Segment:** Highly efficient, producing over $12.4K in profit from just $91K in sales (the highest profit margin at **13.6%**).
+
+**Recommendation:** The business is over-relying on low-margin Consumer sales. We should shift our marketing focus and retention strategies toward the Corporate and Home Office segments, which drive the real bottom-line value. Additionally, we must investigate why Consumer profitability is so poor (e.g., excessive discounting or high shipping costs on small orders).
 
 
+<img width="1351" height="870" alt="2271c8af-bb71-4e74-814c-c9880d5c0c9d" src="https://github.com/user-attachments/assets/d845d89d-a7f9-4905-b4d4-5f6170d34885" />
+
+
+
+### Q3: ​What proportion of overall revenue is driven by the top customer tier (Pareto Principle validation)?
+
+Business Objective:
+To validate the Pareto Principle (the 80/20 rule) within our customer base. Identifying whether a small fraction of VIP customers drives the majority of our revenue is crucial for prioritizing customer retention and allocating account management resources.
+
+Key Insights & Recommendations:
+Our data strongly aligns with the Pareto principle. Out of 629 total customers in the Central region, the **top 20% (just 125 customers) generate approximately 65% of our total revenue** (over $324,000 out of $501,000). Even more strikingly, the top 10% alone account for over 45% of all sales. 
+
+**Recommendation:** The business must immediately implement an exclusive VIP loyalty program and assign dedicated account managers to this top tier. Losing even a handful of these top clients would severely destabilize our overall revenue.
+
+
+
+<img width="1516" height="864" alt="e73f56d6-2655-4c03-94d5-0e3b9e11d8fe" src="https://github.com/user-attachments/assets/0e27158f-63ff-4a3c-b310-9151519b24e9" />
+
+
+
+
+## Products & Pricing
+
+### Q1: 
