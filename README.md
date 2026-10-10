@@ -19,6 +19,7 @@ In contrast, states like **North Dakota** and **Nebraska** have highly efficient
 
 
 
+
 ### Q2: What is the geographic distribution of profitability, and which states drive significant net losses?
 
 Business Objective:
@@ -30,4 +31,24 @@ Conversely, states like **Michigan** and **Indiana** are highly profitable, gene
 
 **Recommendation:** Management should urgently investigate the pricing and discount strategies applied in Texas and Illinois, as current strategies in these states are severely hurting the bottom line.
 
+
 <img width="1371" height="870" alt="9187daf3-53d7-4706-aa6e-e74cde438959" src="https://github.com/user-attachments/assets/f437e747-5dbb-44ef-a4d9-2b563358b977" />
+
+
+
+
+### Q3: What is the operational volume distribution across shipping modes, and how does each fulfillment type contribute to bottom-line profit?
+
+Business Objective: 
+To understand customer preferences regarding fulfilment methods and evaluate how each shipping mode impacts overall profitability. This analysis helps optimize logistics costs, refine shipping pricing models, and promote the most cost-effective delivery options.
+
+Key Insights & Recommendations: 
+Data from the Central region shows that **Standard Class** dominates operational volume (accounting for over 1,430 orders) and drives the bulk of total profit (+$25,350). 
+Interestingly, **Second Class** shipping yields the highest efficiency, generating the most profit per order (~$19.6/order). Conversely, premium options like **First Class** and **Same Day** have lower adoption and significantly lower profit margins per order (around $12.4 to $12.7). 
+
+**Recommendation:** The business should incentivize customers to choose Second Class and Standard Class shipping. Additionally, management must review the pricing structure and carrier contracts for First Class and Same Day deliveries to ensure premium shipping costs aren't eroding our profit margins.
+
+
+
+<img width="1372" height="869" alt="5087fbc3-6810-417a-9813-1f12be11bf9b" src="https://github.com/user-attachments/assets/a5f42c11-d161-44f1-a950-20a3454c5f9b" />
+
