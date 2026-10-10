@@ -52,3 +52,26 @@ Interestingly, **Second Class** shipping yields the highest efficiency, generati
 
 <img width="1372" height="869" alt="5087fbc3-6810-417a-9813-1f12be11bf9b" src="https://github.com/user-attachments/assets/a5f42c11-d161-44f1-a950-20a3454c5f9b" />
 
+
+### Q4: Is long-term sales expansion translating into healthy profit growth, or does revenue growth outpace net earnings over time?
+
+Business Objective: 
+To determine if the long-term increase in sales volume is generating a proportional increase in net profit, or if rising costs and aggressive discounting are eroding the company's profit margins over time.
+
+Key Insights & Recommendations:
+The historical data reveals a highly concerning trend: **revenue growth is not translating into healthy profit growth**. 
+While annual sales grew significantly from 2013-2014 (averaging ~$103K) to 2015-2016 (averaging ~$147K), net earnings failed to sustain that momentum. Specifically, in 2016, despite maintaining peak sales volume ($147K), net profit plummeted by **62%** (dropping from $19.9K in 2015 down to just $7.5K in 2016). Consequently, the profit margin crashed from 13.5% to a mere 5.1%.
+
+**Recommendation:** Management must urgently audit the 2016 operations. The business is generating "empty sales"—moving large volumes of inventory without making a sustainable profit. Discounting strategies and operational costs from the last year must be thoroughly reviewed.
+
+
+<img width="1356" height="851" alt="5909d3cf-7ef1-4db0-8920-0bb2bcde618a" src="https://github.com/user-attachments/assets/07ea3433-6925-4fae-9954-64623ef9b50f" />
+
+
+<img width="1371" height="866" alt="28874e37-16dd-4172-9a58-e092f5e0d919" src="https://github.com/user-attachments/assets/58ca27d2-c6f1-4afa-be8e-91f1cabf6820" />
+
+
+
+### Q5: How do customer segments (Consumer, Corporate, Home Office) compare in terms of revenue contribution versus actual net profitability?
+
+
