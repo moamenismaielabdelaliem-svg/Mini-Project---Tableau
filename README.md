@@ -112,4 +112,72 @@ Our data strongly aligns with the Pareto principle. Out of 629 total customers i
 
 ## Products & Pricing
 
-### Q1: 
+### Q1: Which individual products generate the highest cumulative profit, and which items register severe negative bottom-line contributions?
+
+Business Objective:
+To evaluate item-level performance and identify our most lucrative products versus the ones actively damaging our bottom line. This insight is critical for inventory optimization, deciding which products to promote, and identifying which products should be discontinued or repriced.
+
+Key Insights & Recommendations:
+The product-level analysis reveals extreme variance in profitability:
+  * **Top Performers:** The `Canon imageCLASS 2200 Advanced Copier` is our undisputed star, generating an overwhelming **$8,400** in cumulative profit alone. Technology and hardware (specifically copiers) drive the highest margins.
+  * **Severe Underperformers:** Conversely, several binding systems are causing massive net losses. The `GBC DocuBind P400 Electric Binding System` is our worst-performing item, registering a severe loss of over **-$3,048**. 
+
+**Recommendation:** We highly recommend removing the loss-making `GBC DocuBind P400` and `Fellowes PB500` binding systems from our catalog, or severely restricting the discounts offered on them. Meanwhile, marketing efforts should heavily heavily push Canon copiers and other high-margin tech items.
+
+
+<img width="1042" height="868" alt="f1d843c3-42b4-4b43-bc43-640128912b4f" src="https://github.com/user-attachments/assets/53530b5e-03e2-46d8-8353-3b212d370923" />
+
+
+
+
+### Q2: At what specific discount percentage threshold does operating profit turn negative across orders? 
+
+Business Objective:
+To identify the exact discount rate at which an order stops generating a profit and begins incurring a net loss. This analysis is crucial for establishing strict discounting policies for the sales team and protecting overall margins.
+
+Key Insights & Recommendations:
+The data clearly identifies the profitability threshold. Discounts up to **20%** maintain a positive profit margin (yielding around $14K in total profit at the 20% mark). However, the moment the discount reaches the **30% threshold**, operating profit turns strictly negative (resulting in a -$6.5K loss). The losses only compound dramatically as discounts increase to 40%, 50%, and 80%.
+
+**Recommendation:** The company must enforce a strict policy capping standard discounts at **20%**. Any discount of 30% or higher should require special executive approval, as it guarantees a net loss on the transaction.
+
+
+
+<img width="1497" height="865" alt="2f72b8fb-714c-4c5c-884d-a3bb5728d31c" src="https://github.com/user-attachments/assets/76cf4dd8-5036-4455-a777-fb7c232eea1d" />
+
+
+
+### Q3: How do product sub-categories classify across the growth-profit matrix (High/Low Sales vs. High/Low Profit)?
+
+Business Objective:
+To map all product sub-categories on a Growth-Profit Matrix (Sales vs. Profitability). This helps strategically classify items into four quadrants: Stars (high growth/profit), Hidden Gems (low sales, high margin), Underperformers (high sales, low/negative margin), and Dogs (low sales, low margin), enabling targeted inventory and pricing actions.
+
+Key Insights & Recommendations:
+Based on our scatter plot matrix, the sub-categories fall into clear strategic quadrants:
+**Stars (High Sales & High Profit):** `Copiers`, `Phones`, and `Chairs` are our core drivers. Copiers alone generate over $15.6K in profit. 
+**Underperformers (High Sales, Negative Profit):** `Binders` (with nearly $57K in sales) and `Tables` ($39K in sales) are moving high volumes but generating massive net losses.
+**Hidden Gems (Low Sales, High Profit):** `Paper` is a standout performer. Despite low overall sales volume (~$17K), it generates almost $7K in pure profit (an exceptionally high margin).
+**Dogs (Low Sales, Low/Negative Profit):** `Furnishings` and `Supplies` bring neither volume nor profit.
+
+
+**Recommendation:** We must aggressively promote our "Stars" and increase the visibility of our "Hidden Gems" (like Paper and Envelopes). More importantly, we need an urgent pricing review for "Underperformers" (Tables and Binders)—we should reduce discounts on these items to stop the bleeding, as high sales volume is currently hurting the bottom line.
+
+
+<img width="899" height="859" alt="b9cb9d52-fe54-4273-a7ea-05d07839e6d3" src="https://github.com/user-attachments/assets/e3075aa8-db96-41e8-8918-815eedcdb568" />
+
+
+
+
+### Q4: ​Do expedited fulfillment options compound operational losses when paired with aggressive discounting?
+
+Business Objective:
+To test the operational hypothesis that expensive, expedited shipping methods (like Same Day or First Class) significantly worsen our profit margins when applied to heavily discounted orders (30% discount or higher).
+
+**Key Insights & Recommendations:
+Surprisingly, the data **disproves** this hypothesis. While aggressive discounting guarantees a net loss across all shipping methods, **Standard Class** is actually the worst offender, not expedited shipping. 
+  * Under aggressive discounts (>=30%), **Standard Class** registers a catastrophic **-45% profit margin** (an average loss of -$88 per order).
+  * In contrast, **Same Day** delivery under the same discounts performs slightly "better" with a **-31% profit margin** (an average loss of -$60 per order).
+  * This paradox occurs because heavily discounted, high-loss categories (specifically bulk Office Supplies and Furniture) are overwhelmingly shipped via Standard Class, bleeding the most money.
+**Recommendation:** The primary issue is the discount threshold, not the shipping speed. We must immediately freeze all discounts above 20%, regardless of the shipping method. Furthermore, operations should investigate the hidden handling/shipping costs of Standard Class for bulky items, as it is draining the bottom line faster than premium shipping.
+
+
+<img width="532" height="433" alt="3fcf3140-98e0-4e79-a78c-78756425af5c" src="https://github.com/user-attachments/assets/cb6073f7-8ec0-4a3c-abde-ffa696130478" />
